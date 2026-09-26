@@ -39,11 +39,11 @@ asml-monte-carlo-simulation/
 
 ### Simulated price paths
 
-![Simulated ASML price paths](figures/simulated_price_paths.png)
+![Simulated ASML price paths](simulated_price_paths.png)
 
 ### Distribution of final investment values
 
-![Distribution of simulated final investment values](figures/final_investment_value_distribution.png)
+![Distribution of simulated final investment values](final_investment_value_distribution.png)
 
 ## Results
 
