@@ -1,0 +1,15 @@
+Metric,Value
+Ticker,ASML
+Historical data period,2021-09-27 to 2026-09-25
+Simulation horizon,3 years (756 trading days)
+Number of simulations,"10,000"
+Initial investment,"$10,000"
+Starting ASML share price,"$1,743.94"
+Historical annualised return,25.23%
+Historical annualised volatility,43.56%
+Median final portfolio value,"$15,979.31"
+Mean final portfolio value,"$21,251.16"
+5th percentile final value,"$4,715.50"
+95th percentile final value,"$55,683.17"
+Probability of loss,26.69%
+Probability of profit,73.31%
